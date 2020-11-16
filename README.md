@@ -1,2 +1,2 @@
 # QuadTreeCollision
- QuadTree LinkedLists used to efficiently simulate ball collision 
+ QuadTree LinkedLists used to efficiently simulate collisions
